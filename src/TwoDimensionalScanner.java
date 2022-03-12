@@ -1,6 +1,3 @@
-//Timothy Leung
-//B-Band
-//AP CSA
 import java.util.*;
 
 class TwoDimensionalScanner {
@@ -29,7 +26,7 @@ class TwoDimensionalScanner {
 			 {
 				 System.out.print(a[i][j] + " ");
 				 }
-			System.out.println(); /* Note to self, you can't have two new lines and expect it be next to each other */
+			System.out.println();
 		}
 		 for(i = 0; i < row; i++) {
 			 sum = 0;
