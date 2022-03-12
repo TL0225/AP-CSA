@@ -1,6 +1,4 @@
-/*Timothy Leung
-B-Band
-AP CSA */
+/* Created on Dec 15, 2021 ; Uploaded 3/12/22 */
 
 import java.util.*;
 	public class Investment {
