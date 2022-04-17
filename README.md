@@ -4,8 +4,7 @@ The following contains all programs created during an AP Computer Science A cour
 
  _AP Computer Science A is equivalent to a first-semester, college-level course in computer science._
 
-**Programs in (2021):
-**
+**Programs from 2021:**
 [Two Dimensional Array](https://github.com/TL0225/AP-CSA/blob/main/src/TwoDimensionalScanner.java) - Using a 4 by 4 array matrix to find and display the sum of all the rows and the sum of the column. 
 
 [Integer Array](https://github.com/TL0225/AP-CSA/blob/main/src/GFM.java) - Takes letter grades and converts said letter grade into how much money a person will recieve for that grade.
