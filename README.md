@@ -22,17 +22,17 @@ The following contains all programs created during an AP Computer Science A cour
 
 [TestMethods](https://github.com/TL0225/AP-CSA/blob/main/src/TestMethods.java) - Program consisting of multiple methods that takes a value and displays the value, value times 2, and value plus 100.
 
-[Eggs](https://github.com/TL0225/AP-CSA/blob/main/src/Eggs.java) - Program that takes number of eggs to find how many dozens of eggs you have and how many left remainding
+[Eggs](https://github.com/TL0225/AP-CSA/blob/main/src/Eggs.java) - Program that takes number of eggs to find how many dozens of eggs you have and how many left remainding.
 
 [SearchArray](https://github.com/TL0225/AP-CSA/blob/main/src/SearchArray.java) - Program that compares an integer input to a every element in an array of 10 or more integers. When there is a match the program produces an output indicating there is a match and if there is no match it will say there is no match.
 
 [Grades](https://github.com/TL0225/AP-CSA/blob/main/src/Grades.java) - Program that prints the corresponding letter grade per the range of numbers that is associated for that letter grade.
 
-[ClassworkA](https://github.com/TL0225/AP-CSA/blob/main/src/ClassWorkA.java) - Program using an array w/ scanner function that find the product of the ages of the peopel in a family
+[ClassworkA](https://github.com/TL0225/AP-CSA/blob/main/src/ClassWorkA.java) - Program using an array w/ scanner function that find the product of the ages of the peopel in a family.
 
-[ProblemSet8](https://github.com/TL0225/AP-CSA/blob/main/src/ProblemSet8.java) - Program that uses an inputted array of numbers and checks for even numbers and add only the even numbrs in the list, printing out the sum of the even numbers
+[ProblemSet8](https://github.com/TL0225/AP-CSA/blob/main/src/ProblemSet8.java) - Program that uses an inputted array of numbers and checks for even numbers and add only the even numbrs in the list, printing out the sum of the even numbers.
 
-[ProblemSet7](https://github.com/TL0225/AP-CSA/blob/main/src/ProblemSet7.java)- A program using a for loop, that prints and adds all multiples of 5
+[ProblemSet7](https://github.com/TL0225/AP-CSA/blob/main/src/ProblemSet7.java)- A program using a for loop, that prints and adds all multiples of 5.
 
 [Tennis](https://github.com/TL0225/AP-CSA/blob/main/src/Tennis.java) - Program that determines whether a person can play tennis with the preconditions that the weather isn't raining and the temperature must be greater than 65 and less than 95 degrees.
 
@@ -40,4 +40,19 @@ The following contains all programs created during an AP Computer Science A cour
 
 [Yard](https://github.com/TL0225/AP-CSA/blob/main/src/Project2/Yard.java) - Program that takes the length and width to find area and returns area back to the main class.
 
-__**Programs from 2022:**__
+**Programs from 2022:**
+
+[BaseToBinary](https://github.com/TL0225/AP-CSA/blob/main/src/BaseToBinary.java) - Program that converts any base 10 number into binary number.
+
+[ReverseString](https://github.com/TL0225/AP-CSA/blob/main/src/ReverseString.java) - Program that reverses the letters of your first and last name with a string.
+
+[Palindrome](https://github.com/TL0225/AP-CSA/blob/main/src/Palindrome.java) - Program that will tell if a phrase/sentence is a palindrome
+
+[Recursion](https://github.com/TL0225/AP-CSA/blob/main/src/Recursion.java) - Program using a recursion method to compute any factorial. Solution is returned to the main class.
+
+[Homework](https://github.com/TL0225/AP-CSA/blob/main/src/homework.java) - Program that generates random integer in a selected array size, sorts elements from smallest to largest and shows the output. Program then defines any element in an array and if the element repeats, counts how many times the element is repeated.
+
+[BinarySearchExample](https://github.com/TL0225/AP-CSA/blob/main/src/BinarySearchExample2.java) - Program that creates a binary search for the index value for a array of strings. Looks for the name and indentifies the index of that query
+
+[Car](https://github.com/TL0225/AP-CSA/blob/main/src/Car.java) - Constuctor involving a car and using attributes of a car using getters/setters 
+
