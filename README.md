@@ -1,4 +1,4 @@
-# AP-CSA
+# AP-Computer Science A
 
 The following contains all programs created during an AP Computer Science A course from the years of 2021-2022.
 
