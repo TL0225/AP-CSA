@@ -1,7 +1,7 @@
 // Timothy Leung |  B-Band | AP CSA | Problem Set #2 | Please write a program that will tell if a phrase/sentence is a palindrome
 // Palindrome: a word, phrase, or sequence that reads the same backward as forward
 import java.util.*;
-public class Main {
+public class Palindrome {
 	public static void main(String[] args) {
 
 
