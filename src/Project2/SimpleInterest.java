@@ -1,6 +1,12 @@
 /*Timothy Leung
 B-Band
-Project #2 */
+Project #2 
+Today's task is to modify the program created in class today. You will modify the code so that 
+the interest earn will be returned to the main class from the method/function. In other words, if you invested $1000 at10% over 10 years you should earn interest of $1000. this mean you will have $2000
+after 10 years ( the original ($1000 plus the interest you earn of $1000). This answer should be returned and printed from the 
+main class.
+
+*/
 
 import java.util.*;
 public class SimpleInterest
